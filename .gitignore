@@ -1,0 +1,23 @@
+# Only curated public documents belong in this repository.
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.db
+*.sqlite*
+*.wav
+*.mp3
+*.flac
+*.mp4
+*.gguf
+*.safetensors
+*.pt
+data/
+models/
+runtime/
+private/
+__pycache__/
+.DS_Store
+Thumbs.db
